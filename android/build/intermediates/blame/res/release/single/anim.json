@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/pop_hide.xml",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/anim/pop_hide.xml"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/pop_show.xml",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/anim/pop_show.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/select.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/select.png"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/main_marker.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/main_marker.png"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/arrow.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/normal.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/normal.png"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/my_location.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/my_location.png"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/icon_gcoding.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/icon_gcoding.png"
+    },
+    {
+        "merged": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/location_right.png",
+        "source": "/Users/yangjipeng/Documents/tongban/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/location_right.png"
+    }
+]
